@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelciatkinson
 - I'm a very beginner! 
 - Completed Ada Build Live
-- Hoping to complete a bootcamp soon.
+- Hoping to attend a bootcamp soon.
 - I’m currently learning Python 
 
 
