@@ -2,7 +2,7 @@
 - I'm a very beginner! 
 - Completed Ada Build Live
 - Hoping to attend a bootcamp soon.
-- I’m currently learning Python 
+- I’m currently learning Python.
 
 
 <!---
