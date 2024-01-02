@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelciatkinson
 - I’m currently learning Python.
 - Completed Ada Build Live Summer '22
-
+- Atlas student in cohort 23!
 
 
 <!---
