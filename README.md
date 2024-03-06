@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelciatkinson
 - I’m currently learning C.
 - Completed Ada Build Live Summer '22
-- Atlas student in cohort 23/T1!
+- Atlas School student in cohort 23/T1!
 
 
 <!---
