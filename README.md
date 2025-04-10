@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelciatkinson
-- I’m currently learning Python.
+- I’m currently learning Back End Web Development.
 - Completed Ada Build Live Summer '22
-- Atlas School student in cohort 23/T2!
+- Atlas School student in cohort 23/T4!
 
 
 <!---
