@@ -3,8 +3,7 @@
 - LinkedIn: www.linkedin.com/in/kelciatkinson
 - I’m currently learning Full-Stack Web Development using React and Typescript.
 - Completed Ada Build Live Summer 2022
-- Atlas School student in cohort 23/T5!
-- Graduation: August 2025
+- Atlas School student in cohort 23/T5 -- graduating August 2025!
 
 
 <!---
