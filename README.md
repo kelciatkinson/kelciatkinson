@@ -5,6 +5,8 @@
 - Completed Ada Build Live Summer 2022
 - Atlas School student in cohort 23/T5 -- graduating August 2025!
 
+Excited to build user-focused, impactful software and grow in product-driven engineering!
+
 
 <!---
 kelciatkinson/kelciatkinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
