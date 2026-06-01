@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @kelciatkinson
 - Software Engineer in Tulsa, OK
 - LinkedIn: www.linkedin.com/in/kelciatkinson
-- I’m currently learning C# and .NET.
+- I’m currently learning C++
 - Completed Ada Build Live Summer 2022
 - Atlas School Graduate of August 2025!
 
-Excited to build user-focused, impactful software and grow in product-driven engineering!
 
 
 <!---
